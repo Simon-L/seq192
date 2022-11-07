@@ -1,5 +1,13 @@
 # seq192
 
+> :warning: Build shared branch  
+> `make -f Makefile.shared`  
+> `make -f Makefile.shared standalone`  
+> `cd src && ./seq192`  
+>   
+> There's a nasty GTK segfault but doesn't matter much though...  
+
+
 MIDI sequencer based on seq24 with less features and more swag.
 
 **Less features**
